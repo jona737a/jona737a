@@ -1,7 +1,5 @@
 ### Heyoo
 
-![Jona737a's GitHub stats](https://github-readme-stats.vercel.app/api?username=jona737a&count_private=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jona737a&theme=tokyonight)
 
 <!--
